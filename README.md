@@ -4,7 +4,7 @@
 
 **Welcome to the Real Estate Wonderland! 🌟 Dive into a world of stunning properties and seamless browsing.**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Explore%20Now-green?style=for-the-badge&logo=github)](https://sucessdy.github.io/Real_Estate_Web)
+[![Live Demo](https://real-estate-house-website.netlify.app/)](https://real-estate-house-website.netlify.app/)
 
 ## 🚀 Features
 
@@ -23,7 +23,7 @@ npm install
 npm run dev
 ```
 
-Open your browser and visit [http://localhost:3000](http://localhost:3000) to view the magic!
+Open your browser and visit [http://localhost:5174](http://localhost:5174/) to view the magic!
 
 ## 🛠️ Scripts
 
@@ -53,11 +53,7 @@ npm run preview   # Quick preview during development
 
 **Contributions Welcome!** Open issues or pull requests to enhance functionality or fix bugs.
 
-## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 **Feel the Magic. Explore the Homes. Happy Coding!** 🚀🏡
 
